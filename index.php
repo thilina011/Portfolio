@@ -84,7 +84,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="hero__text">
-                                <span>For website and video editing</span>
+                                <span>Shoot - Edit - Captivate </span>
                                 <h2>Thilina Rathnayaka</h2>
                                 <a href="#" class="primary-btn">See more about us</a>
                             </div>
@@ -92,26 +92,26 @@
                     </div>
                 </div>
             </div>
-            <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+            <div class="hero__item set-bg" data-setbg="img/hero/hero-2.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="hero__text">
-                                <span>For website and video editing</span>
-                                <h2>Videographer’s Portfolio</h2>
+                                <span>Lens - Story - Impact</span>
+                                <h2>Entrepreneur</h2>
                                 <a href="#" class="primary-btn">See more about us</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+            <div class="hero__item set-bg" data-setbg="img/hero/hero-3.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="hero__text">
-                                <span>For website and video editing</span>
-                                <h2>Videographer’s Portfolio</h2>
+                                <span>Eye - Craft - Vision</span>
+                                <h2>Undergraduate</h2>
                                 <a href="#" class="primary-btn">See more about us</a>
                             </div>
                         </div>
