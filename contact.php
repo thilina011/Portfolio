@@ -7,7 +7,7 @@
     <meta name="keywords" content="Videograph, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Thilina Rathnayaka | About</title>
+    <title>Thilina Rathnayaka | Contact</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
@@ -36,27 +36,27 @@
             <div class="row">
                 <div class="col-lg-2">
                     <div class="header__logo">
-                        <a href="./index.html"><img src="img/logo.png" alt=""></a>
+                        <a href="./index.php"><img src="img/logo.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-10">
                     <div class="header__nav__option">
                         <nav class="header__nav__menu mobile-menu">
                             <ul>
-                                <li><a href="./index.html">Home</a></li>
-                                <li><a href="./photography.html">Photography</a></li>
-                                <li><a href="./videography.html">Videography</a></li>
-                                <li class="active"><a href="./about.html">About</a></li>
-                                <!-- <li><a href="./services.html">Services</a></li> -->
+                                <li><a href="./index.php">Home</a></li>
+                                <li><a href="./photography.php">Photography</a></li>
+                                <li><a href="./videography.php">Videography</a></li>
+                                <li><a href="./about.php">About</a></li>
+                                <!-- <li><a href="./services.php">Services</a></li> -->
                                 <!-- <li><a href="#">Pages</a>
                                     <ul class="dropdown">
-                                        <li><a href="./about.html">About</a></li>
-                                        <li><a href="./portfolio.html">Portfolio</a></li>
-                                        <li><a href="./blog.html">Blog</a></li>
-                                        <li><a href="./blog-details.html">Blog Details</a></li>
+                                        <li><a href="./about.php">About</a></li>
+                                        <li><a href="./portfolio.php">Portfolio</a></li>
+                                        <li><a href="./blog.php">Blog</a></li>
+                                        <li><a href="./blog-details.php">Blog Details</a></li>
                                     </ul>
                                 </li> -->
-                                <li><a href="./contact.html">Contact</a></li>
+                                <li class="active"><a href="./contact.php">Contact</a></li>
                             </ul>
                         </nav>
                         <div class="header__nav__social">
@@ -80,10 +80,10 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="breadcrumb__text">
-                        <h2>About us</h2>
+                        <h2>Contact us</h2>
                         <div class="breadcrumb__links">
-                            <a href="./index.html">Home</a>
-                            <span>About</span>
+                            <a href="./index.php">Home</a>
+                            <span>Contact</span>
                         </div>
                     </div>
                 </div>
@@ -92,92 +92,75 @@
     </div>
     <!-- Breadcrumb End -->
 
-    
-    <!-- About Section Begin -->
-    <section class="about spad">
+    <!-- Contact Widget Section Begin -->
+    <section class="contact-widget spad">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
-                    <div class="about__pic">
-                        <div class="row">
-                            <div class="col-lg-12 col-md-12 col-sm-12">
-                                <div class="about__pic__item about__pic__item--large set-bg"
-                                    data-setbg="img/about/about-1.jpg"></div>
-                            </div>
-                            <!-- <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="about__pic__item set-bg" data-setbg="img/about/about-2.jpg"></div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="about__pic__item set-bg" data-setbg="img/about/about-3.jpg"></div>
-                                    </div>
-                                </div>
-                            </div> -->
+                <div class="col-lg-4 col-md-6 col-md-6 col-md-3">
+                    <div class="contact__widget__item">
+                        <div class="contact__widget__item__icon">
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <div class="contact__widget__item__text">
+                            <h4>Address</h4>
+                            <p>Padaviya, Sri Lanka</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="about__text">
-                        <div class="section-title">
-                            <h2>WHo am I?</h2>
+                <div class="col-lg-4 col-md-6 col-md-6 col-md-3">
+                    <div class="contact__widget__item">
+                        <div class="contact__widget__item__icon">
+                            <i class="fa fa-phone"></i>
                         </div>
-                        <div class="about__text__desc">
-                            <p>
-                                I'm Thilina Rathnayaka, an undergraduate student pursuing a degree in Mineral Resources and Technology at Uva Wellassa University. With a passion for minerals and technology, my academic pursuits complement my creative endeavors. I'm on a journey to discover how the earth's resources intersect with innovation. Beyond my academic journey, I'm fueled by a love for visual storytelling and creative expression.                                
-                               As a digital content creator, I transform ideas into engaging multimedia experiences. From concept to execution, I thrive on bringing stories to life through videos that resonate and captivate. Photography is my canvas, and the world is my palette. Through the lens, I capture fleeting moments, turning them into timeless memories. Every frame tells a unique story, and I'm here to share those stories with you. Crafting seamless narratives is my expertise. I believe that every cut, transition, and effect contributes to the emotions a video conveys. I meticulously edit to enhance the essence of every visual masterpiece.
-                               Feel free to explore my portfolio to witness my diverse body of work. Whether it's a mesmerizing video, a captivating photograph, or an innovative project, I invite you to join me on this creative expedition. Let's connect, collaborate, and create something extraordinary together.</p>
+                        <div class="contact__widget__item__text">
+                            <h4>Hotline</h4>
+                            <p>+94 71 9853 690</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-md-6 col-md-3">
+                    <div class="contact__widget__item">
+                        <div class="contact__widget__item__icon">
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <div class="contact__widget__item__text">
+                            <h4>Email</h4>
+                            <p>vdjsandaru25@gmail.com</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- About Section End -->
+    <!-- Contact Widget Section End -->
 
-
-
-    <!-- Team Section Begin -->
-    <section class="team spad set-bg" data-setbg="img/team-bg.jpg">
+    <!-- Call To Action Section Begin -->
+    <section class="contact spad">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title team__title">
-                        <!-- <span>Nice to meet</span>
-                        <h2>OUR Team</h2> -->
+                <div class="col-lg-6 col-md-6">
+                    <div class="contact__map">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3942.662811724!2d80.81163099999999!3d8.817713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwNDknMDMuOCJOIDgwwrA0OCc0MS45IkU!5e0!3m2!1sen!2slk!4v1718936726601!5m2!1sen!2slk"
+                            height="450" style="border:0;"></iframe>
                     </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6 p-0">
-                    <div class="team__item set-bg" data-setbg="img/team/team-1.jpg">
-
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 p-0">
-                    <div class="team__item team__item--second set-bg" data-setbg="img/team/team-2.jpg">
-
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 p-0">
-                    <div class="team__item team__item--third set-bg" data-setbg="img/team/team-3.jpg">
-     
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 p-0">
-                    <div class="team__item team__item--four set-bg" data-setbg="img/team/team-4.jpg">
-
-                    </div>
-                </div>
-                <div class="col-lg-12 p-0">
-                    <div class="team__btn">
-                        <!-- <a href="#" class="primary-btn">Meet Our Team</a> -->
+                <div class="col-lg-6 col-md-6">
+                    <div class="contact__form">
+                        <h3>Get in touch</h3>
+                        <form action="#">
+                            <input type="text" placeholder="Name">
+                            <input type="text" placeholder="Email">
+                            <input type="text" placeholder="Website">
+                            <textarea placeholder="Message"></textarea>
+                            <button type="submit" class="site-btn">Send Message</button>
+                        </form>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Team Section End -->
+    <!-- Call To Action Section End -->
 
     <footer class="footer">
         <div class="container">
