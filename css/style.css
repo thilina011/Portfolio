@@ -1038,7 +1038,7 @@ ol {
   margin-bottom: 20px;
 }
 .about__pic__item.about__pic__item--large {
-  height: 490px;
+  height: 600px;
 }
 
 .about__text {
@@ -1233,7 +1233,7 @@ ol {
 }
 
 .portfolio__item__video {
-  height: 270px;
+  height: 200px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1245,6 +1245,8 @@ ol {
           justify-content: center;
   margin-bottom: 28px;
 }
+
+
 .portfolio__item__video .play-btn {
   display: inline-block;
   color: #ffffff;
