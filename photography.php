@@ -145,7 +145,7 @@ foreach ($categories as $category) {
                 foreach ($images as $category => $categoryImages) {
                     foreach ($categoryImages as $image) {
                         echo '<div class="mix col-xl-2 col-md-3 col-sm-4 col-6 p-0 ' . $category . '">';
-                        echo '<a href="' . $image . '" class="portfolio-item img-popup set-bg" data-setbg="' . $image . '"></a>';
+                        echo '<a href="uploads/' . $image . '" class="portfolio-item img-popup set-bg" data-setbg="uploads/' . $image . '"></a>';
                         echo '</div>';
                     }
                 }
