@@ -368,8 +368,8 @@
                 <div class="col-lg-8">
                     <div class="callto__text">
                         <h2>Fresh Ideas, Fresh Moments Giving Wings to your Stories.</h2>
-                        <p>INC5000, Best places to work 2019</p>
-                        <a href="#">Start your stories</a>
+                        <p>Best places to work 2024</p>
+                        <a href="./contact.php">Contact</a>
                     </div>
                 </div>
             </div>
@@ -402,7 +402,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
                         <div class="footer__top__logo">
-                            <a href="#"><img src="img/logo.png" alt=""></a>
+                            <a href="./index.php"><img src="img/logo.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
@@ -421,9 +421,9 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="footer__option__item">
                             <h5>About us</h5>
-                            <p>Formed in 2006 by Matt Hobbs and Cael Jones, Videoprah is an award-winning, full-service
-                                production company specializing.</p>
-                            <a href="#" class="read__more">Read more <span class="arrow_right"></span></a>
+                            <p>Established in 2024, showcase the creative talents of Thilina Rathnayaka</p>
+                            <p>Developed by Lashan Sachintha </p>
+                            <a href="./about.php" class="read__more">Read more <span class="arrow_right"></span></a>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-3">
@@ -451,7 +451,7 @@
                     <div class="col-lg-4 col-md-12">
                         <div class="footer__option__item">
                             <h5>Newsletter</h5>
-                            <p>Videoprah is an award-winning, full-service production company specializing.</p>
+                            <p>Get new updates from Thilina</p>
                             <form action="#">
                                 <input type="text" placeholder="Email">
                                 <button type="submit"><i class="fa fa-send"></i></button>

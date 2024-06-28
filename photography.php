@@ -128,7 +128,7 @@ foreach ($categories as $category) {
 
     <!-- Portfolio Section -->
     <section class="portfolio-section">
-        <div class="container">
+        <div class="container port-container" >
             <div class="portfolio-filter controls text-center">
                 <ul>
                     <li class="control" data-filter="all">All</li>
@@ -162,13 +162,14 @@ foreach ($categories as $category) {
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
                         <div class="footer__top__logo">
-                            <a href="#"><img src="img/logo.png" alt=""></a>
+                            <a href="./index.php"><img src="img/logo.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="footer__top__social">
                             <a href="https://www.facebook.com/thilinarathnayakaofficial?_rdc=1&_rdr"><i class="fa fa-facebook"></i></a>
                             <a href="https://x.com/ThilinaR011?t=dpk1pfjFmIeBHUCCq55mqQ&s=09"><i class="fa fa-twitter"></i></a>
+                            <!-- <a href="#"><i class="fa fa-fiver"></i></a> -->
                             <a href="https://www.instagram.com/thilina011?igsh=ZnlpZ2thejVveXl5"><i class="fa fa-instagram"></i></a>
                             <a href="https://www.youtube.com/channel/UCLumlhlKMxeXpA6OPdNyhvA"><i class="fa fa-youtube-play"></i></a>
                         </div>
@@ -180,39 +181,56 @@ foreach ($categories as $category) {
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="footer__option__item">
                             <h5>About us</h5>
-                            <p>Formed in 2006 by Matt Hobbs and Cael Jones, Videoprah is an award-winning, full-service
-                                production company specializing.</p>
-                            <a href="#" class="read__more">Read more <span class="arrow_right"></span></a>
+                            <p>Established in 2024, showcase the creative talents of Thilina Rathnayaka</p>
+                            <p>Developed by Lashan Sachintha </p>
+                            <a href="./about.php" class="read__more">Read more <span class="arrow_right"></span></a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="footer__option__item">
-                            <h5>Useful Links</h5>
+                    <div class="col-lg-2 col-md-3 col-sm-3">
+                        <!-- <div class="footer__option__item">
+                            <h5>Who we are</h5>
                             <ul>
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Privacy</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="#">Team</a></li>
+                                <li><a href="#">Carrers</a></li>
+                                <li><a href="#">Contact us</a></li>
+                                <li><a href="#">Locations</a></li>
+                            </ul>
+                        </div> -->
+                    </div>
+                    <!-- <div class="col-lg-2 col-md-3 col-sm-3">
+                        <div class="footer__option__item">
+                            <h5>Our work</h5>
+                            <ul>
+                                <li><a href="#">Feature</a></li>
+                                <li><a href="#">Latest</a></li>
+                                <li><a href="#">Browse Archive</a></li>
+                                <li><a href="#">Video for web</a></li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 col-sm-12">
+                    </div> -->
+                    <div class="col-lg-4 col-md-12">
                         <div class="footer__option__item">
-                            <h5>Contact us</h5>
-                            <ul>
-                                <li><a href="https://www.facebook.com/thilinarathnayakaofficial?_rdc=1&_rdr">Facebook</a></li>
-                                <li><a href="https://x.com/ThilinaR011?t=dpk1pfjFmIeBHUCCq55mqQ&s=09">Twitter</a></li>
-                                <li><a href="https://www.instagram.com/thilina011?igsh=ZnlpZ2thejVveXl5">Instagram</a></li>
-                                <li><a href="https://www.youtube.com/channel/UCLumlhlKMxeXpA6OPdNyhvA">YouTube</a></li>
-                            </ul>
+                            <h5>Newsletter</h5>
+                            <p>Get new updates from Thilina</p>
+                            <form action="#">
+                                <input type="text" placeholder="Email">
+                                <button type="submit"><i class="fa fa-send"></i></button>
+                            </form>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="footer__bottom text-center">
-                        <p>&copy; 2024 Thilina Rathnayaka. All Rights Reserved. Design by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
+            <div class="footer__copyright">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        <p class="footer__copyright__text">Copyright &copy;
+                            <script>
+                                document.write(new Date().getFullYear());
+                            </script>
+                            All rights reserved | Thilina Rathnayaka
+                        </p>
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </div>
                 </div>
             </div>
